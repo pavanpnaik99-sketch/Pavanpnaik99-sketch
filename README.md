@@ -19,15 +19,6 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-naik-33b11b339)  
 
-### Technologies
-**Programming & Analysis**
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
-**Statistics**
-- Descriptive Statistics
-- Inferential Statistics
-- Hypothesis Testing
-
-
 ###  Libraries
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50"/>
