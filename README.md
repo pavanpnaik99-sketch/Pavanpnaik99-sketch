@@ -5,6 +5,7 @@
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
+<h1 align="left">😎 I'M Pavan Naik</h1>
 
 ### 🛠️ Skills & Tools
 - **Programming:** Python(numpy,pandas,mathplotlib,seaborn)  
