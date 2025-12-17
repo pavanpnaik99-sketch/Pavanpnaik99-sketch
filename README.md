@@ -19,14 +19,21 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-naik-33b11b339)  
 
-#### Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,html,css" />
-</p>
+### Technologies
+**Programming & Analysis**
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+**Statistics**
+- Descriptive Statistics
+- Inferential Statistics
+- Hypothesis Testing
 
-#### Frameworks & Libraries
+
+###  Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=bootstrap" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="50"/>
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50"/>
 </p>
 
 #### Databases
@@ -37,7 +44,16 @@
 #### Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="50"/>
 </p>
+
+### BI & Visualization
+<p align="left">
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="50"/>
+</p>
+
 
 <h2 align="center">📈 Github Stats 📈  </h2>
 <p align="center">
