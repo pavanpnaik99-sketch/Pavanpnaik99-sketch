@@ -12,7 +12,6 @@
 - **Databases:** SQL (MySQL)  
 - **Data Analysis:** Excel, Power Query  
 - **Data Visualization:** Power BI  , Tableau
-- **Statistics:** Descriptive & Inferential Statistics 
 - 📫 You can reach me at pavanpnaik99@gmail.com
 
 
