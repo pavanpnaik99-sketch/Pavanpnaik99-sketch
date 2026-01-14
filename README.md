@@ -8,7 +8,7 @@
 <h1 align="left">😎 I'M Pavan Naik</h1>
 
 ### 🛠️ Skills & Tools
-- **Programming:** Python(numpy,pandas,mathplotlib,seaborn)  
+- **Programming:** Python(numpy,pandas,mathplotlib,seaborn),R programming  
 - **Databases:** SQL (MySQL)  
 - **Data Analysis:** Excel, Power Query  
 - **Data Visualization:** Power BI  , Tableau
