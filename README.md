@@ -336,23 +336,6 @@ Python for Data Analysis
 <!-- ======================= GITHUB ======================= -->
 
 
-
-## 📌 Featured Work
-
-<div align="center">
-
-<a href="https://github.com/Pavanpnaik99-sketch/Bank_loan_pr">
-<img src="https://img.shields.io/badge/🏦%20Bank%20Loan%20Analysis-SQL%20%7C%20Tableau-2ea44f?style=for-the-badge"/>
-</a>
-
-<br><br>
-
-<a href="https://github.com/Pavanpnaik99-sketch">
-<img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
 <br>
 
 <div align="center">
@@ -362,6 +345,14 @@ Python for Data Analysis
 </div>
 
 ---
+
+## 🐍 My GitHub Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Pavanpnaik99-sketch/Pavanpnaik99-sketch/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
 
 <!-- ======================= CONTACT ======================= -->
 
