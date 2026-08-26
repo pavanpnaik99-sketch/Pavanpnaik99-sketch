@@ -369,7 +369,7 @@ Python for Data Analysis
 
 <div align="center">
 
-<a href="https://linkedin.com/in/pavan-naik">
+<a href="https://www.linkedin.com/in/pavan-naik-33b11b339/">
 <img src="https://img.shields.io/badge/LinkedIn-Pavan%20Naik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
