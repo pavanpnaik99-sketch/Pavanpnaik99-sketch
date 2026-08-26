@@ -1,91 +1,126 @@
-<h1 align="center">Hi, I'm Pavan Naik 👋</h1>
+<!-- ======================= HEADER ======================= -->
 
-<h3 align="center">Data Analyst | SQL | Python | Power BI | Excel</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/pavan-naik-33b11b339/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:Pavanpnaik99@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Pavan%20Naik&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20SQL%20%7C%20Python%20%7C%20Power%20BI&descAlignY=60&descSize=18"/>
 
----
+<br>
 
-## About Me
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+Business+Analytics;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Turning+Raw+Data+into+Actionable+Insights;Building+Data-Driven+Solutions" alt="Typing SVG" />
+</a>
 
-I'm a **Data Analyst** with hands-on experience working with **SQL, Python, Power BI, and Excel** to clean, analyze, visualize, and report data.
+<br><br>
 
-During my Data Analyst internship at **AI Variant**, I worked with **50,000+ records**, performed exploratory data analysis, wrote SQL queries for reporting, resolved data inconsistencies, and developed Power BI dashboards for KPI tracking and business reporting.
+<a href="https://www.linkedin.com/in/pavan-naik-33b11b339/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:Pavanpnaik99@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-I enjoy taking raw datasets, asking the right business questions, and turning the results into **clear insights and actionable reports**.
-
-Currently seeking opportunities in:
-
-**Data Analytics • Business Analytics • Business Intelligence**
+</div>
 
 ---
 
-## Core Skills
+<!-- ======================= ABOUT ======================= -->
 
-### Data Analysis
+## 👨‍💻 About Me
 
-* Data Cleaning & Transformation
-* Exploratory Data Analysis (EDA)
+```python
+class PavanNaik:
+
+    role = "Data Analyst"
+
+    focus = [
+        "Data Analysis",
+        "Business Intelligence",
+        "SQL",
+        "Python",
+        "Power BI",
+        "Excel"
+    ]
+
+    experience = {
+        "Data Analytics": "AI Variant",
+        "Web Development": "WeBrainy Software Solutions"
+    }
+
+    interests = [
+        "Business Analytics",
+        "Data Visualization",
+        "Dashboard Development",
+        "Problem Solving"
+    ]
+```
+
+I'm a **Data Analyst** with hands-on experience using **SQL, Python, Power BI, Excel, and Tableau** to clean, analyze, visualize, and report data.
+
+During my Data Analyst internship at **AI Variant**, I worked with **50,000+ records**, performed exploratory data analysis, developed SQL queries, improved data quality, and built Power BI dashboards for KPI reporting.
+
+I also have professional experience in **WordPress web development**, where I worked with Elementor, Astra, HTML, CSS, JavaScript, website optimization, and on-page SEO.
+
+My goal is to combine **technical analysis + business understanding + clear visualization** to turn raw data into useful decisions.
+
+---
+
+<!-- ======================= ANALYTICS ======================= -->
+
+## 📊 Data Analytics
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode,jupyter" />
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="55"/>
+&nbsp;&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" width="55"/>
+&nbsp;&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="55"/>
+
+</div>
+
+### 🐍 Python
+
+`Pandas` `NumPy` `Matplotlib` `Seaborn`
+
+* Data Cleaning
+* Exploratory Data Analysis
+* Data Transformation
+* Statistical Analysis
+* Data Visualization
 * Trend & Pattern Analysis
-* KPI Analysis
-* Data Validation
-* Business Reporting
-* Descriptive Statistics
 
-### SQL & Databases
+### 🗄️ SQL
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
-</p>
+`MySQL` `PostgreSQL`
 
-* Complex SQL Queries
 * Joins
-* Subqueries
 * CTEs
+* Subqueries
 * Window Functions
 * Aggregations
 * CASE Statements
-* Ranking & Filtering
+* Ranking
+* Filtering
 * Stored Procedures
+* KPI Analysis
 
-### Python
+### 📈 Power BI
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
+`Power Query` `DAX` `Data Modeling`
 
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Data Cleaning
-* Exploratory Data Analysis
-* Data Visualization
-
-### Power BI & Excel
-
-<p>
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" width="50"/>
-</p>
-
-**Power BI**
-
-* DAX
-* Power Query
-* Data Modeling
-* KPI Development
 * Interactive Dashboards
+* KPI Development
+* Data Transformation
 * Business Reporting
+* Trend Analysis
+* Performance Analysis
 
-**Excel**
+### 📗 Excel
 
 * Pivot Tables
 * VLOOKUP
@@ -93,137 +128,257 @@ Currently seeking opportunities in:
 * Charts
 * Dashboards
 * Power Query
+* Business Reporting
 
-### Visualization
+### 📊 Tableau
 
-* Power BI
-* Tableau
-* Matplotlib
-* Seaborn
+* Interactive Dashboards
+* Data Visualization
+* Filters
+* KPI Reporting
+* Business Analysis
 
 ---
 
-## 💼 Experience
+<!-- ======================= WEB DEVELOPMENT ======================= -->
 
-### Data Analyst Intern — AI Variant
+## 🌐 Web Development Experience
+
+Alongside data analytics, I have professional experience in **WordPress web development**.
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,wordpress" />
+
+</div>
+
+### WordPress
+
+* WordPress Website Development
+* Elementor
+* Astra Theme
+* Responsive Web Design
+* HTML & CSS
+* JavaScript
+* Website Performance Optimization
+* On-Page SEO
+* Content Management
+* Client Website Development
+
+**Internship:** WeBrainy Software Solutions
+**May 2026 – Jul 2026**
+
+---
+
+<!-- ======================= EXPERIENCE ======================= -->
+
+## 💼 Professional Experience
+
+### 🔹 Data Analyst Intern — AI Variant
 
 **Nov 2025 – Feb 2026 | Bangalore, India**
 
-* Analyzed **50,000+ records** using Python and SQL for exploratory data analysis and data quality improvement.
-* Used **joins, subqueries, CTEs, and window functions** to extract and aggregate data for reporting.
-* Identified trends and inconsistencies within raw datasets and improved data accuracy through data cleaning.
-* Developed **Power BI dashboards and KPI reports** to support business reporting and data-driven decision-making.
+> Worked with **50,000+ records** using Python and SQL for data analysis and reporting.
+
+**Key Contributions**
+
+* Performed data cleaning and exploratory data analysis using **Python, Pandas, and NumPy**.
+* Wrote SQL queries using **Joins, CTEs, Subqueries, and Window Functions**.
+* Identified trends, patterns, and inconsistencies in raw datasets.
+* Built **Power BI dashboards and KPI reports** for business reporting.
+* Improved data accuracy by resolving inconsistencies in source data.
 
 ---
 
-## 📊 Featured Project
+### 🔹 WordPress Web Developer Intern — WeBrainy Software Solutions
 
-### Bank Loan Analysis
+**May 2026 – Jul 2026 | Mangalore, India**
 
-**Tools:** `SQL` `Tableau`
+> Developed and maintained responsive business websites for client requirements.
 
-Analyzed loan data to understand loan performance, customer risk, repayment behavior, and portfolio trends.
+**Key Contributions**
 
-**What I Worked On**
-
-* Used advanced SQL techniques including:
-
-  * CTEs
-  * Window Functions
-  * Ranking
-  * Conditional Filtering
-  * Aggregations
-* Analyzed loan performance and identified **high-risk charged-off customers**.
-* Examined loan growth across different years.
-* Analyzed loan performance by **grade and sub-grade**.
-* Investigated revolving balance and payment patterns.
-* Analyzed loan status across **states and months**.
-* Built an interactive Tableau dashboard with dynamic filters.
-
-**Repository:**
-[View Bank Loan Analysis →](https://github.com/pavanpnaik99-sketch/Bank_loan_pr)
+* Built responsive websites using **WordPress, Elementor, and Astra Theme**.
+* Worked with **HTML, CSS, and JavaScript** for website customization.
+* Optimized website performance and user experience.
+* Implemented on-page SEO practices including meta tags, alt text, and URL structure.
+* Managed website content and responsive layouts.
 
 ---
 
-## 📈 What I Build
+<!-- ======================= PROJECTS ======================= -->
 
-My projects focus on the complete analytical workflow:
+## 🚀 Featured Projects
+
+### 🏦 Bank Loan Analysis
+
+**SQL • Tableau**
+
+<a href="https://github.com/pavanpnaik99-sketch/Bank_loan_pr">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+Analyzed loan data to understand **loan performance, customer risk, repayment behavior, and portfolio trends**.
+
+**Analysis included:**
+
+* Advanced SQL queries
+* CTEs
+* Window Functions
+* Ranking
+* Conditional Filtering
+* Loan performance analysis
+* Charged-off customer analysis
+* Grade & sub-grade analysis
+* State and monthly loan analysis
+
+Built an interactive **Tableau dashboard** with dynamic filters to visualize the findings.
+
+---
+
+### 📊 More Projects Coming
+
+I'm continuously building projects focused on:
 
 ```text
-Raw Data
-   ↓
+Business Problem
+       ↓
+Data Collection
+       ↓
 Data Cleaning
-   ↓
+       ↓
 SQL / Python Analysis
-   ↓
-Exploratory Data Analysis
-   ↓
-KPI & Metric Development
-   ↓
-Power BI / Tableau Dashboard
-   ↓
+       ↓
+EDA & KPI Analysis
+       ↓
+Power BI / Tableau
+       ↓
 Business Insights
+       ↓
+Recommendations
 ```
 
-I aim to build projects that answer **business questions**, rather than simply demonstrating individual tools.
+---
+
+<!-- ======================= CERTIFICATIONS ======================= -->
+
+## 🎓 Certifications
+
+### 🏆 NASSCOM — Data Analyst Certification
+
+**Gold Category | Score: 73% | Apr 2026**
+
+<a href="https://github.com/pavanpnaik99-sketch/Nasscom-Certification-/blob/main/nasscompdf.pdf">
+<img src="https://img.shields.io/badge/View%20Certificate-Download-2ea44f?style=for-the-badge&logo=github"/>
+</a>
+
+### 📘 ExcelR — Data Analytics Certification
+
+**Sep 2025 – Feb 2026**
+
+`Excel` `SQL` `Power BI` `Python`
 
 ---
 
-## 🧰 Tools & Technologies
+<!-- ======================= EDUCATION ======================= -->
 
-| Category              | Technologies              |
-| --------------------- | ------------------------- |
-| Programming           | Python                    |
-| Data Analysis         | Pandas, NumPy             |
-| Visualization         | Matplotlib, Seaborn       |
-| Database              | MySQL, PostgreSQL         |
-| Query Language        | SQL                       |
-| Business Intelligence | Power BI, Tableau         |
-| BI / ETL              | Power Query               |
-| Spreadsheet           | Microsoft Excel           |
-| Version Control       | Git, GitHub               |
-| Development           | VS Code, Jupyter Notebook |
-
----
-
-## 🎓 Education & Certifications
+## 🎓 Education
 
 **Bachelor of Computer Application**
+
 M.P.E. Society's S.D.M. College of Arts, Science and Commerce
-CGPA: **7.52**
 
-**NASSCOM — Certificate Program in Data Analyst**
-Gold Category | Score: **73%**
+**CGPA: 7.52**
 
-**ExcelR — Data Analytics Certification**
-Excel • SQL • Power BI • Python
+**2022 – 2025**
 
 ---
 
-## 🚀 Currently Strengthening
+<!-- ======================= CURRENTLY LEARNING ======================= -->
 
-* Advanced SQL
-* DAX & Power BI
-* Data Modeling
-* Statistical Analysis
-* Business Analytics
-* Python for Data Analysis
+## 🌱 Currently Strengthening
+
+```text
+Advanced SQL
+     ↓
+DAX & Power BI
+     ↓
+Data Modeling
+     ↓
+Statistics
+     ↓
+Business Analytics
+     ↓
+Python for Data Analysis
+```
 
 ---
+
+<!-- ======================= TOOLBOX ======================= -->
+
+## 🧰 My Analytics Toolbox
+
+<div align="center">
+
+|      Category     | Tools                                       |
+| :---------------: | :------------------------------------------ |
+|   🐍 Programming  | Python                                      |
+|    📊 Analysis    | Pandas, NumPy                               |
+|    🗄️ Database   | MySQL, PostgreSQL                           |
+|    🔎 Querying    | SQL                                         |
+|       📈 BI       | Power BI, Tableau                           |
+|   📗 Spreadsheet  | Excel                                       |
+| 🔄 Transformation | Power Query                                 |
+|  📉 Visualization | Matplotlib, Seaborn                         |
+|       🌐 Web      | WordPress, Elementor, HTML, CSS, JavaScript |
+|     🛠️ Tools     | Git, GitHub, VS Code, Jupyter               |
+
+</div>
+
+---
+
+<!-- ======================= GITHUB ======================= -->
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Pavanpnaik99-sketch&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavanpnaik99-sketch&layout=compact&hide_border=true" height="170"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pavanpnaik99-sketch&hide_border=true" />
+
+</div>
+
+---
+
+<!-- ======================= CONTACT ======================= -->
 
 ## 📫 Let's Connect
 
-<p>
-  <a href="https://linkedin.com/in/pavan-naik">
-    <img src="https://img.shields.io/badge/LinkedIn-Pavan%20Naik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:Pavanpnaik99@gmail.com">
-    <img src="https://img.shields.io/badge/Pavanpnaik99%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<div align="center">
 
----
+<a href="https://linkedin.com/in/pavan-naik">
+<img src="https://img.shields.io/badge/LinkedIn-Pavan%20Naik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<p align="center">
-  <i>Turning data into insights and insights into better decisions.</i>
-</p>
+<a href="mailto:Pavanpnaik99@gmail.com">
+<img src="https://img.shields.io/badge/Pavanpnaik99%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+**Data → Analysis → Insights → Decisions**
+
+</div>
+
+<!-- ======================= FOOTER ======================= -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
