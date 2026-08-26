@@ -3,11 +3,11 @@
 <h3 align="center">Data Analyst | SQL | Python | Power BI | Excel</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pavan-naik-33b11b339">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/pavan-naik-33b11b339/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:pavanpnaik99@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:Pavanpnaik99@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -15,123 +15,192 @@
 
 ## About Me
 
-I'm an aspiring **Data Analyst** focused on turning raw data into meaningful insights that support better business decisions.
+I'm a **Data Analyst** with hands-on experience working with **SQL, Python, Power BI, and Excel** to clean, analyze, visualize, and report data.
 
-I work with **SQL, Python, Power BI, and Excel** for data cleaning, exploratory analysis, visualization, reporting, and business intelligence.
+During my Data Analyst internship at **AI Variant**, I worked with **50,000+ records**, performed exploratory data analysis, wrote SQL queries for reporting, resolved data inconsistencies, and developed Power BI dashboards for KPI tracking and business reporting.
 
-I'm particularly interested in answering business questions through data — from extracting and transforming data to identifying trends, patterns, KPIs, and actionable insights.
+I enjoy taking raw datasets, asking the right business questions, and turning the results into **clear insights and actionable reports**.
 
----
+Currently seeking opportunities in:
 
-## 🛠️ Skills & Tools
-
-### Data Analysis & Programming
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-**Python:** Pandas • NumPy • Matplotlib • Seaborn
-
-**Analysis:** Data Cleaning • EDA • Descriptive Statistics • Data Visualization • Trend Analysis
+**Data Analytics • Business Analytics • Business Intelligence**
 
 ---
 
-### 🗄️ SQL & Databases
+## Core Skills
+
+### Data Analysis
+
+* Data Cleaning & Transformation
+* Exploratory Data Analysis (EDA)
+* Trend & Pattern Analysis
+* KPI Analysis
+* Data Validation
+* Business Reporting
+* Descriptive Statistics
+
+### SQL & Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
-**SQL:** Joins • CTEs • Subqueries • Window Functions • Aggregations • CASE Statements • KPI Analysis
+* Complex SQL Queries
+* Joins
+* Subqueries
+* CTEs
+* Window Functions
+* Aggregations
+* CASE Statements
+* Ranking & Filtering
+* Stored Procedures
 
----
+### Python
 
-### 📊 Business Intelligence & Visualization
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Data Cleaning
+* Exploratory Data Analysis
+* Data Visualization
+
+### Power BI & Excel
 
 <p>
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" width="50"/>
 </p>
 
-**Power BI:** DAX • Power Query • Data Modeling • KPI Dashboards • Interactive Reports
-
-**Excel:** Pivot Tables • Lookup Functions • Data Cleaning • Power Query • Dashboard Development
-
-**Tableau:** Data Visualization • Dashboard Development
-
----
-
-### 🔧 Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,linux" />
-</p>
-
----
-
-## 📂 Featured Projects
-
-I use my projects to demonstrate practical **data analysis and business problem-solving**, not just individual tools.
-
-### 📊 Data Analysis Projects
-
-Projects involving:
-
-* Data cleaning and preprocessing
-* Exploratory Data Analysis
-* Trend and pattern identification
-* Statistical analysis
-* Visualization
-* Business insights
-
-### 🗄️ SQL Projects
-
-Projects demonstrating:
-
-* Complex SQL queries
-* Joins and aggregations
-* CTEs and subqueries
-* Window functions
-* Customer and business analysis
-* KPI calculation
-
-### 📈 Power BI Projects
-
-Projects focused on:
-
-* Data modeling
-* DAX measures
-* Power Query transformations
-* KPI development
-* Interactive dashboards
-* Business performance analysis
-
-> **Each project is structured around a business problem → analysis → insights → recommendations.**
-
----
-
-## 🎯 What I Bring
-
-**SQL**
-Extract and analyze data from relational databases using practical analytical queries.
-
-**Python**
-Clean, transform, explore, and visualize datasets using Pandas, NumPy, Matplotlib, and Seaborn.
-
 **Power BI**
-Build interactive dashboards and analytical reports using Power Query, DAX, and data modeling.
+
+* DAX
+* Power Query
+* Data Modeling
+* KPI Development
+* Interactive Dashboards
+* Business Reporting
 
 **Excel**
-Perform analysis, reporting, data transformation, and dashboard development.
 
-**Business Analysis**
-Translate data into trends, KPIs, patterns, and insights that can support business decisions.
+* Pivot Tables
+* VLOOKUP
+* Data Cleaning
+* Charts
+* Dashboards
+* Power Query
+
+### Visualization
+
+* Power BI
+* Tableau
+* Matplotlib
+* Seaborn
 
 ---
 
-## 📚 Currently Strengthening
+## 💼 Experience
+
+### Data Analyst Intern — AI Variant
+
+**Nov 2025 – Feb 2026 | Bangalore, India**
+
+* Analyzed **50,000+ records** using Python and SQL for exploratory data analysis and data quality improvement.
+* Used **joins, subqueries, CTEs, and window functions** to extract and aggregate data for reporting.
+* Identified trends and inconsistencies within raw datasets and improved data accuracy through data cleaning.
+* Developed **Power BI dashboards and KPI reports** to support business reporting and data-driven decision-making.
+
+---
+
+## 📊 Featured Project
+
+### Bank Loan Analysis
+
+**Tools:** `SQL` `Tableau`
+
+Analyzed loan data to understand loan performance, customer risk, repayment behavior, and portfolio trends.
+
+**What I Worked On**
+
+* Used advanced SQL techniques including:
+
+  * CTEs
+  * Window Functions
+  * Ranking
+  * Conditional Filtering
+  * Aggregations
+* Analyzed loan performance and identified **high-risk charged-off customers**.
+* Examined loan growth across different years.
+* Analyzed loan performance by **grade and sub-grade**.
+* Investigated revolving balance and payment patterns.
+* Analyzed loan status across **states and months**.
+* Built an interactive Tableau dashboard with dynamic filters.
+
+**Repository:**
+[View Bank Loan Analysis →](https://github.com/pavanpnaik99-sketch/Bank_loan_pr)
+
+---
+
+## 📈 What I Build
+
+My projects focus on the complete analytical workflow:
+
+```text
+Raw Data
+   ↓
+Data Cleaning
+   ↓
+SQL / Python Analysis
+   ↓
+Exploratory Data Analysis
+   ↓
+KPI & Metric Development
+   ↓
+Power BI / Tableau Dashboard
+   ↓
+Business Insights
+```
+
+I aim to build projects that answer **business questions**, rather than simply demonstrating individual tools.
+
+---
+
+## 🧰 Tools & Technologies
+
+| Category              | Technologies              |
+| --------------------- | ------------------------- |
+| Programming           | Python                    |
+| Data Analysis         | Pandas, NumPy             |
+| Visualization         | Matplotlib, Seaborn       |
+| Database              | MySQL, PostgreSQL         |
+| Query Language        | SQL                       |
+| Business Intelligence | Power BI, Tableau         |
+| BI / ETL              | Power Query               |
+| Spreadsheet           | Microsoft Excel           |
+| Version Control       | Git, GitHub               |
+| Development           | VS Code, Jupyter Notebook |
+
+---
+
+## 🎓 Education & Certifications
+
+**Bachelor of Computer Application**
+M.P.E. Society's S.D.M. College of Arts, Science and Commerce
+CGPA: **7.52**
+
+**NASSCOM — Certificate Program in Data Analyst**
+Gold Category | Score: **73%**
+
+**ExcelR — Data Analytics Certification**
+Excel • SQL • Power BI • Python
+
+---
+
+## 🚀 Currently Strengthening
 
 * Advanced SQL
 * DAX & Power BI
@@ -144,17 +213,17 @@ Translate data into trends, KPIs, patterns, and insights that can support busine
 
 ## 📫 Let's Connect
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/pavan-naik-33b11b339">
-    <img src="https://img.shields.io/badge/LinkedIn-Pavan%20Naik-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+<p>
+  <a href="https://linkedin.com/in/pavan-naik">
+    <img src="https://img.shields.io/badge/LinkedIn-Pavan%20Naik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:pavanpnaik99@gmail.com">
-    <img src="https://img.shields.io/badge/Email-pavanpnaik99%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:Pavanpnaik99@gmail.com">
+    <img src="https://img.shields.io/badge/Pavanpnaik99%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>Turning data into insights, one project at a time.</i>
+  <i>Turning data into insights and insights into better decisions.</i>
 </p>
