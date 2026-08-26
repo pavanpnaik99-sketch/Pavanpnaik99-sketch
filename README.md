@@ -335,13 +335,21 @@ Python for Data Analysis
 
 <!-- ======================= GITHUB ======================= -->
 
-## 📈 GitHub Activity
+
+
+## 📌 Featured Work
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pavanpnaik99-sketch&show_icons=true&hide_border=true" height="170" alt="Pavan's GitHub Stats"/>
+<a href="https://github.com/Pavanpnaik99-sketch/Bank_loan_pr">
+<img src="https://img.shields.io/badge/🏦%20Bank%20Loan%20Analysis-SQL%20%7C%20Tableau-2ea44f?style=for-the-badge"/>
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavanpnaik99-sketch&layout=compact&hide_border=true" height="170" alt="Pavan's Top Languages"/>
+<br><br>
+
+<a href="https://github.com/Pavanpnaik99-sketch">
+<img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
