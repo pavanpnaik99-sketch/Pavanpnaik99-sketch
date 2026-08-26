@@ -51,7 +51,6 @@ class PavanNaik:
         "Business Analytics",
         "Data Visualization",
         "Dashboard Development",
-        "Problem Solving"
     ]
 ```
 
@@ -90,7 +89,6 @@ My goal is to combine **technical analysis + business understanding + clear visu
 * Data Cleaning
 * Exploratory Data Analysis
 * Data Transformation
-* Statistical Analysis
 * Data Visualization
 * Trend & Pattern Analysis
 
@@ -305,8 +303,6 @@ DAX & Power BI
      ↓
 Data Modeling
      ↓
-Statistics
-     ↓
 Business Analytics
      ↓
 Python for Data Analysis
@@ -343,9 +339,9 @@ Python for Data Analysis
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pavanpnaik99-sketch&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Pavanpnaik99-sketch&show_icons=true&hide_border=true" height="170" alt="Pavan's GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavanpnaik99-sketch&layout=compact&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavanpnaik99-sketch&layout=compact&hide_border=true" height="170" alt="Pavan's Top Languages"/>
 
 </div>
 
